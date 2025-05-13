@@ -117,7 +117,8 @@
   border-radius: 50%;
   background-color: #fdfdfd;
   z-index: 2;
-  transition: transform 2s ease, background-color 2s ease, width 2s ease, height 2s ease;
+  /* transition: transform 2s ease, background-color 2s ease, width 2s ease, height 2s ease; */
+  background-image: url('../assets/vhs.png');
 }
 
 .scene {
