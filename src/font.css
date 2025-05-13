@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('../BANKRUS.TTF') format('woff2'),url('../BANKRUS.TTF') format('woff');;
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,15 @@
+import './App.css'
+import Home from './components/home'
+import './font.css';
+
+
+function App() {
+  
+  return (
+    <>
+    <Home></Home>
+    </>
+  )
+}
+
+export default App
